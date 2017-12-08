@@ -1,0 +1,18 @@
+body {
+    background-color: #FFFFF0;
+    font-family: arial,helvetica,sans-serif;
+}
+
+.col-md-4 {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.table-striped {
+    height: 50px;
+    border-bottom: 1px solid #000;
+}
+
+label {
+    font-weight: bold;
+}
